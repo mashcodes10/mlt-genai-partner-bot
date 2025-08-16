@@ -1,6 +1,7 @@
 # SEC EDGAR API Library
 
 A comprehensive Python client for accessing SEC EDGAR filings and company data. I expanded from a simple CIK lookup tool to a full-featured SEC data retrieval system.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7369c525-2d69-4c5e-9b44-13e252c84eb7" />
 
 ## 🚀 Features
 
